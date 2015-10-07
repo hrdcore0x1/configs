@@ -1,7 +1,7 @@
 # Path to your oh-my-zsh installation.
 _byobu_sourced=1 . /usr/bin/byobu-launch
 
-export ZSH=/home/cory/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 export WORKON_HOME=~/.virtualenv
 alias ls='ls --color=auto'
 alias ll='ls -l'
